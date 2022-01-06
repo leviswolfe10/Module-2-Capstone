@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af0243b8-1f97-4019-8a03-7b5a255a5ce2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22NBswMCXLysBaxQWxXQ1esmJ3Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator.tenmo.services" />
+      <recent name="com.techelevator.view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.App" />
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleServiceTest.getUsernameFromAccountId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.ConsoleServiceTest" />
+      <option name="METHOD_NAME" value="getUsernameFromAccountId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleServiceTest.getUsernameFromAccountId_pass_in_bill_22_expect_empty_string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.ConsoleServiceTest" />
+      <option name="METHOD_NAME" value="getUsernameFromAccountId_pass_in_bill_22_expect_empty_string" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleServiceTest.getUsernameFromAccountId_pass_in_josh_19_expect_empty_string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.ConsoleServiceTest" />
+      <option name="METHOD_NAME" value="getUsernameFromAccountId_pass_in_josh_19_expect_empty_string" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleServiceTest.getUsernameFromAccountId_pass_in_josh_19_expect_josh" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.ConsoleServiceTest" />
+      <option name="METHOD_NAME" value="getUsernameFromAccountId_pass_in_josh_19_expect_josh" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.ConsoleServiceTest.getUsernameFromAccountId_pass_in_bill_22_expect_empty_string" />
+        <item itemvalue="JUnit.ConsoleServiceTest.getUsernameFromAccountId_pass_in_josh_19_expect_empty_string" />
+        <item itemvalue="JUnit.ConsoleServiceTest.getUsernameFromAccountId_pass_in_josh_19_expect_josh" />
+        <item itemvalue="JUnit.ConsoleServiceTest.getUsernameFromAccountId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0243b8-1f97-4019-8a03-7b5a255a5ce2" name="Default Changelist" comment="" />
+      <created>1639668375219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639668375219</updated>
+    </task>
+    <servers />
+  </component>
+</project>
